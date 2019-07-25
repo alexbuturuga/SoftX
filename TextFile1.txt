@@ -1,0 +1,6 @@
+0|0|orizontal|adiacente|Cum se numesc 2 varfuri intre care exista muchie intr-un graf neorientat
+4|0|vertical|conex|Un graf cu un singur nod este, prin definitie
+1|6|orizontal|regulat|Un graf in care toate nodurile au acelasi grad se numeste
+2|8|orizontal|compus|Daca muchiile unui lant nu sunt distincte se numeste
+1|5|vertical|graf|Este reprezentat de matricea de adiacenta
+7|1|vertical|izolat|Un nod cu gradul 0 se numeste

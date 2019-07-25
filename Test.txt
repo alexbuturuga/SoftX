@@ -1,0 +1,35 @@
+Frecventa(viteza) microprocesorului (CPU) se masoara in:
+MB
+MHz
+GB
+MHz
+1 GB este egal cu:
+1024 Byte
+1024 MByte
+1024 KByte
+1024 MByte
+1 MB este egal cu:
+1024 Byte
+1024 GByte
+1024 KByte
+1024 KByte
+Capacitatea unei dischete este de:
+1.44 KByte
+1.44 MByte
+1.44 GByte
+1.44 MByte
+Capacitatea unui DVD este de:
+4.7 GByte
+4.7 KByte
+4.7 MByte
+4.7 GByte
+Windows XP este:
+Un program de calcul tabelar
+Un program utilizat pentru accesarea informatiei pe Internet
+Un sistem de operare
+Un sistem de operare
+Principala caracteristica a Hard disk-ului este:
+Frecventa
+Capacitatea de stocare
+Rezolutia
+Capacitatea de stocare

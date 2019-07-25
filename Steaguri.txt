@@ -1,0 +1,44 @@
+Romania|Romania.png
+Afganistan|Afganistan.png
+Africa de Sud|Africa de Sud.png
+Albania|Albania.png
+Algeria|Algeria.png
+Andorra|Andorra.png
+Angola|Angola.png
+Arabia Saudita|Arabia Saudita.png
+Argentina|Argentina.png
+Armenia|Armenia.png
+Australia|Australia.png
+Austria|Austria.png
+Belgia|Belgia.png
+Brazilia|Brazilia.png
+Bulgaria|Bulgaria.png
+Canada|Canada.png
+Cipru|Cipru.png
+Cambogia|Cambogia.png
+China|China.png
+Coreea de Sud|Coreea de Sud.png
+Costa Rica|Costa Rica.png
+Croatia|Croatia.png
+Cuba|Cuba.png
+Danemarca|Danemarca.png
+Elvetia|Elvetia.png
+Estonia|Estonia.png
+Egipt|Egipt.png
+Fiji|Fiji.png
+Finlanda|Finlanda.png
+Franta|Franta.png
+Filipine|Filipine.png
+Grecia|Grecia.png
+Georgia|Georgia.png
+Haiti|Haiti.png
+Iran|Iran.png
+Indonezia|Indonezia.png
+Islanda|Islanda.png
+Irlanda|Irlanda.png
+Irak|Irak.png
+India|India.png
+Italia|Italia.png
+Israel|Israel.png
+Japonia|Japonia.png
+Republica Moldova|Republica Moldova.png

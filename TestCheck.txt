@@ -1,0 +1,30 @@
+Cameleonii isi pot muta privirea in directii diferite in acelasi timp?
+true
+Numarul roman C reprezinta 1000?
+false
+O persoana adulta are 32 de dinti?
+true
+Soarele este de 1 milion de ori mai mare decat Pamantul?
+true
+Luna iulie are 30 de zile?
+false
+Trei dintre renii lui Mos Craciun au nume care incep cu litera D?
+true
+Calamarul gigantic are cei mai mari ochi din tot regnul animal?
+true
+New York este capitala Americii?
+false
+Trasura Cenusaresei se transforma in pastarnac la miezul noptii?
+false
+Jumatate din 226 este 113?
+true
+Omnivorele nu mananca plante?
+false
+In America de Sud sunt mai multe tari decat in Africa?
+false
+Urmatoarele litere sunt considerare consoane:A,E,I,O,U?
+false
+Paunii masculi au un penaj colorat spre deosebire de paunii femele?
+true
+Jocurile Olimpice de vara au loc o data la doi ani?
+false

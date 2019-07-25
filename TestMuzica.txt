@@ -1,0 +1,72 @@
+Sa se tasteze urmatoarea nota: 
+Do
+A
+Sa se tasteze urmatoarea nota: 
+Do#
+W
+Sa se tasteze urmatoarea nota: 
+Re
+S
+Sa se tasteze urmatoarea nota: 
+Re#
+E
+Sa se tasteze urmatoarea nota: 
+Mi
+D
+Sa se tasteze urmatoarea nota: 
+Fa
+F
+Sa se tasteze urmatoarea nota: 
+Fa#
+T
+Sa se tasteze urmatoarea nota: 
+Sol
+G
+Sa se tasteze urmatoarea nota: 
+Sol#
+Y
+Sa se tasteze urmatoarea nota: 
+La
+H
+Sa se tasteze urmatoarea nota: 
+La#
+U
+Sa se tasteze urmatoarea nota: 
+Si
+J
+Sa se tasteze urmatoarea nota: 
+Do1
+K
+Sa se tasteze urmatoarea nota: 
+Do1#
+O
+Sa se tasteze urmatoarea nota: 
+Re1
+L
+Sa se tasteze urmatoarea nota: 
+Re1#
+P
+Sa se tasteze urmatoarea nota: 
+Mi1
+;
+Sa se tasteze urmatoarea nota: 
+Reb
+W
+Sa se tasteze urmatoarea nota: 
+Mib
+E
+Sa se tasteze urmatoarea nota: 
+Solb
+T
+Sa se tasteze urmatoarea nota: 
+Lab
+Y
+Sa se tasteze urmatoarea nota: 
+Sib
+U
+Sa se tasteze urmatoarea nota: 
+Re1b
+O
+Sa se tasteze urmatoarea nota: 
+Mi1b
+P
